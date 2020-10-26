@@ -2,3 +2,4 @@ data/
 *.json
 *.csv
 .ipynb_checkpoints/
+.jupyter/
